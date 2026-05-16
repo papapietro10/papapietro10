@@ -44,12 +44,6 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=papapietro10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/papapietro10)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papapietro10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/papapietro10)
-
-<br/>
-
 [![Streak](https://streak-stats.demolab.com?user=papapietro10&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
