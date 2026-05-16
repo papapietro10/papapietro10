@@ -37,14 +37,3 @@
 
 ---
 
-<div align="center">
-
-### Stats
-
-<br/>
-
-[![Streak](https://streak-stats.demolab.com?user=papapietro10&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
