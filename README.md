@@ -36,15 +36,15 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=papapietro10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=666666&icon_color=ffffff"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=papapietro10&show_icons=true&theme=github_dark&hide_border=true"/>
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papapietro10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=666666"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papapietro10&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=papapietro10&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=666666&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=papapietro10&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
