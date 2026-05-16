@@ -2,7 +2,7 @@
 
 <br/>
 
-Digital Channel Lead · IA · Automatización · Madrid 🇪🇸
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Digital+Channel+Lead+%C2%B7+IA+%C2%B7+Automatizaci%C3%B3n+%C2%B7+Madrid+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-duboy-a18ab716b)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/pedroduboy)
